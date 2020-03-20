@@ -32,21 +32,21 @@ Or filter by estimated experience level:
 
 Or filter by tech category:
 
-* [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Web app`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Frontend/UI`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`AI/ML`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Extension/Plugin/Add-On`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Bots`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Security`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels)
-* [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels)
+* [`Mobile app`](https://github.com/open-source-ideas/open-source-ideas/labels/Mobile%20app)
+* [`IoT`](https://github.com/open-source-ideas/open-source-ideas/labels/IoT)
+* [`Web app`](https://github.com/open-source-ideas/open-source-ideas/labels/Web%20app)
+* [`Frontend/UI`](https://github.com/open-source-ideas/open-source-ideas/labels/Frontend%2FUI)
+* [`AI/ML`](https://github.com/open-source-ideas/open-source-ideas/labels/AI%2FML)
+* [`APIs/Backend`](https://github.com/open-source-ideas/open-source-ideas/labels/APIs%2FBackend)
+* [`Voice Assistant`](https://github.com/open-source-ideas/open-source-ideas/labels/Voice%20assistant)
+* [`Developer Tooling`](https://github.com/open-source-ideas/open-source-ideas/labels/Developer%20tooling)
+* [`Extension/Plugin/Add-On`](https://github.com/open-source-ideas/open-source-ideas/labels/Extension%2FPlugin%2FAdd-on)
+* [`Design/UX`](https://github.com/open-source-ideas/open-source-ideas/labels/Design%2FUX)
+* [`AR/VR`](https://github.com/open-source-ideas/open-source-ideas/labels/AR%2FVR)
+* [`Bots`](https://github.com/open-source-ideas/open-source-ideas/labels/Bots)
+* [`Security`](https://github.com/open-source-ideas/open-source-ideas/labels/Security)
+* [`Blockchain`](https://github.com/open-source-ideas/open-source-ideas/labels/Blockchain)
+* [`Futuristic Tech/Something Unique`](https://github.com/open-source-ideas/open-source-ideas/labels/Futuristic%20tech%2FUnique%20ideas)
 
 Or if you are totally new to open source and development, you can check out:
 
@@ -84,30 +84,36 @@ As is often the case with Open Source, a project already exists, but people aren
 
 # Completed Hall of Fame
 
-###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
+### [projectunic0rn/pub](https://github.com/projectunic0rn/pub)
 
-- :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
-- :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
+- :white_check_mark: Completed by [@rmjordas](https://github.com/rmjordas), [@rickywid](https://github.com/rickywid), [@aaron2212](https://github.com/aaron2212), [@roymoran](https://github.com/roymoran)
+- :heart: Pitched in [issue #195](https://github.com/open-source-ideas/open-source-ideas/issues/195) by [@roymoran](https://github.com/roymoran)
+- :rocket: Website [projectunicorn.net](https://projectunicorn.net)
+
+### [fredrikaugust/bulk-renamer](https://github.com/FredrikAugust/bulk-renamer)
+
+- :white_check_mark: Completed by [@fredrikaugust](https://github.com/fredrikaugust)
+- :heart: Pitched in [issue #149](https://github.com/open-source-ideas/open-source-ideas/issues/149) by [@KOLANICH](https://github.com/KOLANICH)
 
 ###  [mysticmode/libreread](https://github.com/mysticmode/libreread)
 
 - :white_check_mark: Completed by [@mysticmode](https://github.com/mysticmode)
 - :heart: Pitched in [issue #11](https://github.com/mikaelbr/open-source-ideas/issues/11) by [@ocdtrekkie](https://github.com/ocdtrekkie)
 
-###  [twobucks/slack-message](https://github.com/twobucks/slack-message)
-
-- :white_check_mark: Completed by [@dinodsaurus](https://github.com/dinodsaurus)
-- :heart: Pitched in [issue #2](https://github.com/mikaelbr/open-source-ideas/issues/2) by [@mikaelbr](https://github.com/mikaelbr)
-
 ### [bsonntag/npm-notifier](https://github.com/bsonntag/npm-notifier)
 
 - :white_check_mark: Completed by [@bsonntag](https://github.com/bsonntag)
 - :heart: Pitched in [issue #6](https://github.com/mikaelbr/open-source-ideas/issues/6) by [@mikaelbr](https://github.com/mikaelbr)
 
-### [fredrikaugust/bulk-renamer](https://github.com/FredrikAugust/bulk-renamer)
+###  [twobucks/slack-message](https://github.com/twobucks/slack-message)
 
-- :white_check_mark: Completed by [@fredrikaugust](https://github.com/fredrikaugust)
-- :heart: Pitched in [issue #149](https://github.com/open-source-ideas/open-source-ideas/issues/149) by [@KOLANICH](https://github.com/KOLANICH)
+- :white_check_mark: Completed by [@dinodsaurus](https://github.com/dinodsaurus)
+- :heart: Pitched in [issue #2](https://github.com/mikaelbr/open-source-ideas/issues/2) by [@mikaelbr](https://github.com/mikaelbr)
+
+###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
+
+- :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
+- :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
 
 ---
 
