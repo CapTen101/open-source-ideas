@@ -1,5 +1,7 @@
 # Open Source Ideas [![Slack](https://opensourceideas.herokuapp.com/badge.svg)](https://opensourceideas.herokuapp.com)
 
+#### [View completed projects here!](#completed-hall-of-fame)
+
 > :open_hands: Ever had a cool idea for an Open Source project but didn't have the time to implement it yourself? Let someone else give it a try!
 
 See all ideas in the [issues list](https://github.com/open-source-ideas/open-source-ideas/issues) or on the project's homepage: https://open-source-ideas.github.io ([source](https://github.com/open-source-ideas/open-source-ideas.github.io)). For discussions regarding the Open Source Ideas project itself, check out [meta](https://github.com/open-source-ideas/meta).
@@ -84,6 +86,18 @@ As is often the case with Open Source, a project already exists, but people aren
 
 # Completed Hall of Fame
 
+### [AmruthPillai/All-The-Words-That-I-Know](https://github.com/AmruthPillai/All-The-Words-That-I-Know)
+
+- :white_check_mark: Completed by [@AmruthPillai](https://github.com/AmruthPillai)
+- :heart: Pitched in [issue #204](https://github.com/open-source-ideas/open-source-ideas/issues/204) by [@xenotropic](https://github.com/xenotropic)
+- :rocket: Website [pillai.xyz/word-game](https://pillai.xyz/word-game)
+
+### [azz-eddine/nws_webapp](https://github.com/azz-eddine/nws_webapp)
+
+- :white_check_mark: Completed by [@azz-eddine](https://github.com/azz-eddine)
+- :heart: Pitched in [issue #204](https://github.com/open-source-ideas/open-source-ideas/issues/74) by [@xenotropic](https://github.com/xenotropic)
+- :rocket: Website [nws.overnightproject.com/](http://nws.overnightproject.com/)
+
 ### [projectunic0rn/pub](https://github.com/projectunic0rn/pub)
 
 - :white_check_mark: Completed by [@rmjordas](https://github.com/rmjordas), [@rickywid](https://github.com/rickywid), [@aaron2212](https://github.com/aaron2212), [@roymoran](https://github.com/roymoran)
@@ -110,10 +124,16 @@ As is often the case with Open Source, a project already exists, but people aren
 - :white_check_mark: Completed by [@dinodsaurus](https://github.com/dinodsaurus)
 - :heart: Pitched in [issue #2](https://github.com/mikaelbr/open-source-ideas/issues/2) by [@mikaelbr](https://github.com/mikaelbr)
 
+###  [kencrocken/FiraCodeiScript](https://github.com/kencrocken/FiraCodeiScript)
+
+- :white_check_mark: Completed by [@kencrocken](https://github.com/kencrocken)
+- :heart: Pitched in [issue #10](https://github.com/open-source-ideas/open-source-ideas/issues/10) by [@mikaelbr](https://github.com/mikaelbr)
+
 ###  [mikaelbr/open-source-ideas](https://github.com/mikaelbr/open-source-ideas)
 
 - :white_check_mark: Completed by [@FredrikAugust](https://github.com/FredrikAugust)
 - :heart: Pitched in [issue #1](https://github.com/mikaelbr/open-source-ideas/issues/1) by [@mikaelbr](https://github.com/mikaelbr)
+
 
 ---
 
